@@ -105,8 +105,7 @@ A simple command-line tool built with Python to scrape key information from a pu
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/aayush-0131/github-profile-scraper.git](https://github.com/your-username/github-profile-scraper.git)
-    ```
+    git clone [https://github.com/aayush-0131/github-profile-scraper.git]
 
 2.  **Navigate into the project directory:**
     ```bash
